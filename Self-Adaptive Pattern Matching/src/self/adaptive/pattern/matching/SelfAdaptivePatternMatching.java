@@ -7,7 +7,7 @@ package self.adaptive.pattern.matching;
 
 /**
  *
- * @author Mehran
+ * @author Mehran Alidoost Nia
  */
 public class SelfAdaptivePatternMatching {
 

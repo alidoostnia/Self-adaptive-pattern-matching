@@ -1,7 +1,7 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * and open the template in the editor
  */
 //direction value corresponding to each axes x+,x-,y+ and y- are considered 0,1,2 and 3 respectively.
 package SAS;

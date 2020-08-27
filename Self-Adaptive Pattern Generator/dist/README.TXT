@@ -19,7 +19,7 @@ and distribute the ZIP file.
 Notes:
 
 * If two JAR files on the project classpath have the same name, only the first
-JAR file is copied to the lib folder.
+JAR file is copied to the lib folder
 * Only JAR files are copied to the lib folder.
 If the classpath contains other types of files or folders, these files (folders)
 are not copied.

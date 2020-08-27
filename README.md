@@ -1,5 +1,5 @@
 # Self-adaptive-pattern-matching
-A pattern generator and matching system for self-adaptive solar energy harvesting systems.
+A pattern generator and pattern-matching system for self-adaptive solar energy harvesting systems.
 
 The project includes two branches:
 
